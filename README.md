@@ -1,11 +1,11 @@
-# UX Portfolio
+# Anmol Virdi UX Portfolio
 
-About me...
+![Anmol_lake_tahoe](https://github.com/user-attachments/assets/d58647ca-85dd-479c-9032-9192bb7d0989)
+Hi my is Anmol Virdi, I'm a student in Chico State. This is my UX jounal
 
 ## UX Team Project
-
 Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Anmol's Journall](journal/)
