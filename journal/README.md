@@ -1,5 +1,5 @@
 # Accidental Queues on Spotify Mobile
----
+
 I use Spotify’s mobile app every day to find new songs and listen to albums. Usually this involves me navigating back and forth between albums and artists. Spotify, like most mobile apps, allows users to swipe right to go back to the previous screen. This interaction feels natural and consistent across many mobile platforms.
 
 However, Spotify gives the right swipe motion another characteristic as well. My goal is to go back to the previous page when I swipe right. Depending on if you swipe right directly from the corner of your screen or a few cm before then, dictates what a right swipe will do. If the right swipe is done on top of a song, it becomes queued. Typically, I open an album, scroll through a bit, and then swipe right to go back, but sometimes if I do that motion a little closer to the songs, it gets queued. Spotify interprets the swipe as an intentional "add to queue" gesture.
